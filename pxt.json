@@ -1,5 +1,5 @@
 {
-    "name": "Alarmanlage",
+    "name": "Alarmanlage empfänger",
     "description": "",
     "dependencies": {
         "core": "*",
